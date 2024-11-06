@@ -1,0 +1,17 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "description": "Write automated test scripts for some of the highest priority test cases you\r identified in Task 1 and 2. You do not need to run these scripts on a real Facebook\r page. Submit the scripts into your own Github repository.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
